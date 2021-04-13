@@ -1,5 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df92dfcfdfcbdf9adf9bdf93df93df9adf9adf9edf9edfcbdfccdfccdfccdf99df93df9edf9ddfc8dfc8df92dfcedf93df9edfc9df9ddfccdfc9dfcbdfcfdfcedfccdf9cdfc8dfcbdf93df93df98df9f</token>
+          <option name="name" value="Project Alice" />
+          <organizationKey>project-alice-assistant</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
