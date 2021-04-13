@@ -1,1 +1,62 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+  </JSCodeStyleSettings>
+  <Python>
+    <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="DICT_ALIGNMENT" value="2" />
+    <option name="DICT_WRAPPING" value="0" />
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="FROM_IMPORT_WRAPPING" value="0" />
+  </Python>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+    <option name="CALL_PARAMETERS_WRAP" value="0" />
+    <option name="METHOD_PARAMETERS_WRAP" value="0" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
