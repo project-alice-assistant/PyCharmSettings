@@ -1,0 +1,297 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>JavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>TypeScriptJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="12.19.0" last-modified="1601999922000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1P4CIYJmKKZ2W4XYYeGVT02H0u5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1hBhykdHjPqDJdBjQufIQMbxG4h">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1p4c5WUVSlhsIymfQXgdd7g77tA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="26-26-26-255,,,209-209-209-255,,,150-75-75-255,,,158-158-158-255,,,121-121-121-255,,,91-91-91-255,,,57-57-57-255,,,178-117-64-255,,,180-180-180-255,,,145-145-145-255,,,145-94-85-255,,,141-145-145-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.58293074" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7177419" />
+    <property name="CommitToolWindow.COMMIT_SPLITTER_PROPORTION" value="0.5164369" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="DBE.Default.Dialect" value="SQLite" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="ProjectAliceManager" />
+    <property name="FindSplitterProportion" value="0.42295596" />
+    <property name="InstalledPluginsSearchHistory" value="vue&#10;vu&#10;statisti&#10;statist&#10;statis" />
+    <property name="KEYMAP" value="align to" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="true" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJinja2" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="LayoutCode.rearrangeEntriesVue" value="false" />
+    <property name="MTUILite.version" value="4.0" />
+    <property name="MarketplacePluginsSearchHistory" value="vue&#10;statisti&#10;team&#10;emoji&#10;emo" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveFile.OpenInEditor" value="false" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PACKAGE_FILTER" value="twine&#10;flask-class&#10;gitpython&#10;git&#10;levens" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.3324709" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="SHELLCHECK.PATH" value="C:\Users\laure\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\203.7148.72.plugins\Shell Script\shellcheck.exe" />
+    <property name="SHFMT.PATH" value="C:\Users\laure\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\193.6911.25.plugins\Shell Script\shfmt.exe" />
+    <property name="SettingsSearchHistory" value="user&#10;sona&#10;interpre&#10;.html&#10;template" />
+    <property name="SetupTaskDialog.currentCard" value="Options" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="django" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="Vcs.Push.Splitter.Tree.Proportion" value="0.49875" />
+    <property name="appcds.runOnSecondStart" value="PY-211.6693.115-334a8db73a965918f91df514265f051765c5ce7fc72729f36dbd3970ff85aad5" />
+    <property name="bidi.content.notification.disable" value="true" />
+    <property name="code.with.me.user.name" value="Psycho" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.actions.ToolActions$ScriptingActionBase$1.previewExpanded" value="true" />
+    <property name="dir.diff.panel.divider.location" value="319" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="evlsprt3.191" value="12" />
+    <property name="evlsprt3.192" value="17" />
+    <property name="evlsprt3.193" value="12" />
+    <property name="evlsprt3.201" value="16" />
+    <property name="evlsprt3.202" value="14" />
+    <property name="evlsprt3.203" value="10" />
+    <property name="evlsprt3.211" value="14" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="D:/repositories/git/ProjectAlice/AliceCLI/setup.py&#10;D:/repositories/git/ProjectAlice/AliceCLI&#10;D:/repositories/git/ProjectAlice/AliceCLI/AliceCli/AliceCli.py&#10;D:/repositories/git/ProjectAlice&#10;D:/repositories/git/ProjectAlice/AliceCLI/AliceCli&#10;D:/repositories/git/ProjectAlice/ProjectAlice/configTemplate.json&#10;D:/repositories/git/ProjectAlice/ProjectAlice/config-schema.json&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/myHome/model&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/myHome&#10;D:/repositories/git/ProjectAlice/ProjectAlice/tests/base&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/webui/model&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/webui&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/webApi/model&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/webui/static/webfonts&#10;D:/repositories/git/ProjectAlice/ProjectAlice/core/webui/vue/client/package.json&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkills/PublishedSkills&#10;D:/repositories/git/ProjectAlice/ProjectAliceUnittest&#10;D:/repositories/git/ProjectAlice/skill_Sonos&#10;D:/repositories/git/ProjectAlice/skill_Sonos/tests&#10;C:/Program Files/nodejs/node.exe&#10;D:/repositories/git/ProjectAlice/skill_OvenTemperatureConversion&#10;D:/repositories/git/ProjectAlice/skill_Snake&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkillKit/ProjectAliceSK/validate/src/schemas/samples-schema.json&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkills/ci_sources/store.py&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkills/PublishedSkills/store.py&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkillKit/ProjectAliceSK&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkills/PublishedSkills/AliceCore&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkillKit/ProjectAliceSK/ProjectAliceSkillKit.py&#10;D:/repositories/git/ProjectAlice/ProjectAliceSkills/Tools/SampleGenerator/main.py&#10;D:/repositories/git/ProjectAlice/ProjectAlice/tests/voice" />
+    <property name="file.gist.reindex.count" value="308054" />
+    <property name="fileTypeChangedCounter" value="110" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:ru.meanmail.fileTypes.RequirementsFileTypeDetector" />
+    <property name="find.popup.splitter" value="0.5532995" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-211.6693.115" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="lastSeenTip" value="neue-search_everywhere_expr.html" />
+    <property name="lastTimeTipsWereShown" value="1618309945854" />
+    <property name="lastTip" value="45" />
+    <property name="last_opened_file_path" value="D:/repositories/git/ProjectAlice/ProjectAliceUnittest" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="osmedile.intellij.stringmanip.MyApplicationService.lastAction" value="osmedile.intellij.stringmanip.swap.SwapQuoteAction" />
+    <property name="python.packaging.author" value="Psychokiller1888" />
+    <property name="seenTips" value="neue-CtrlShiftI.html,neue-CtrlW.html,neue-FinishByExclamation.html,neue-JupyterAddCell.html,neue-Multiselection1.html,neue-ColorEditingInCss.html,neue-db_tip_forget_cached_schemas.html,neue-Multiselection2.html,neue-DBColors.html,neue-SelectTasks.html,neue-OnDemandLoadingPolicy.html,neue-MethodSeparators.html,neue-CopyWithNoSelection.html,neue-TabInEditorClose.html,neue-CheckRegExp.html,neue-BuiltInServer.html,neue-Multicursor1.html,neue-IssueNavigation.html,neue-ShowHideSideBars.html,neue-Close_all_editor_tabs.html,neue-9c9b3.html,neue-Scratch.html,neue-SelectRunDebugConfiguration.html,neue-LensMode.html,neue-1053c1.html,neue-CommentCode.html,neue-QuickEvaluateExpression.html,neue-TabInLookups.html,neue-local_history.html,neue-QuickSwitchScheme.html,neue-DBMakeDataSourceReadonly.html,neue-db_tip_live_connection.html,neue-EnterDirectoryInGotoFile.html,neue-Spellchecker.html,neue-CamelHumpsInCodeCompletion.html,neue-PytestFixtures.html,neue-SpellcheckerDictionaries.html,neue-tips_db_WordCompletion.html,neue-InspectCode.html,neue-MoveUpDown.html,neue-5e71f5ff.html,neue-ChangeSorting.html,neue-CancelByControlArrows.html,neue-RecentSearch.html,neue-RefactorThis.html,neue-LiveTemplatesRestore.html,neue-partial_git_commit.html,neue-jump_to_colors_fonts.html,neue-SearchEverywhere.html,neue-EditorConfig.html,neue-RecentChanges.html,neue-smart_selection.html,neue-pull_requests.html,neue-CloseOthers.html,neue-find_action.html,neue-YouTrack_integration.html,neue-AnnotationsAndDiffs.html,neue-Emmet.html,neue-GoToFile.html,neue-CompletionImportStatic.html,neue-RecentFiles.html,neue-OptimizeImports-py.html,neue-find_usages.html,neue-ParameterInfo.html,neue-LineEndingsFolder.html,neue-run_anything.html,neue-Escape.html,neue-JupyterShortcuts.html,neue-GoToAction.html,neue-CtrlDotInLookups.html,neue-Multicursor.html,neue-OverrideImplementMethods.html,neue-db_tip_back_up_table.html,neue-intention_action_replace_with_between_expression.html,neue-ImageFileCompletion.html,neue-ConsolesCodeCompletion.html,neue-BreakpointIntentions.html,neue-ClosingTag.html,neue-12c082.html,neue-CodeCompletionMiddle.html,neue-CodeCompletion.html,neue-ShowUsages.html,neue-CtrlD.html,neue-QuickJavaDoc.html,neue-WideScreen.html,neue-EvaluateExpressionInEditor.html,neue-Managepy.html,neue-12c07f.html,neue-VcsQuickList.html,neue-ImagesLookup.html,neue-10cf6a.html,neue-MoveToChangelist.html,neue-LaunchConsole.html,neue-tips_db_DBTerminal.html,neue-RemoveBreakpoint.html,neue-PrintKeywords.html,neue-HighlightUsagesInFile.html,neue-ScratchesView.html,neue-ClipboardStack.html,neue-HorizontalScrolling.html,neue-NavigateToFilePath.html,neue-TerminalOpen.html,neue-FindReplaceToggle.html,neue-warning_for_incorrect_equals_operator.html,neue-SurroundWith.html,neue-9df24.html,neue-WildcardsInNavigationPopups.html,neue-12c091.html,neue-ColumnSelection.html,neue-ShowAppliedStyles.html,neue-DragToOpen.html,neue-RichTextCopy.html,neue-IntroduceVariable.html,neue-search_everywhere_expr.html" />
+    <property name="settings.code.style.selected.tab.CSS" value="Other" />
+    <property name="settings.code.style.selected.tab.GenericSQL" value="Code" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.Python" value="Other" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.Vue" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\laure\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+        <entry key="C:\Users\laure\AppData\Local\Programs\Python\Python38\python.exe" value="true" />
+        <entry key="D:\repositories\git\ProjectAlice\AliceCLI\venv\Scripts\python.exe" value="true" />
+        <entry key="D:\repositories\git\ProjectAlice\ProjectAliceSkillKit\venv\Scripts\python.exe" value="true" />
+        <entry key="D:\repositories\git\ProjectAlice\ProjectAliceUnittest\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\core\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\skill_OvenTemperatureConversion\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\Somfy\venv\Scripts\python.exe" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/snipsLedControl_1.8/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/snipsLedControl_v1.8.0/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.138:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.160:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.164:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.168:22/home/pi/ProjectAlice/venv/bin/python" value="true" />
+        <entry key="sftp://pi@aliceoffice:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@aliceparis:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicevelux:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-5:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsflower:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsflower:22/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\laure\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\AliceCLI\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\ProjectAliceSkillKit\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\ProjectAliceUnittest\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\core\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\skill_OvenTemperatureConversion\venv\Scripts\python.exe" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/snipsLedControl_1.8/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/snipsLedControl_v1.8.0/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.138:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.160:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.164:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.168:22/home/pi/ProjectAlice/venv/bin/python" value="false" />
+        <entry key="sftp://pi@aliceoffice:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@aliceparis:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicevelux:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-5:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsflower:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsflower:22/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\laure\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\AliceCLI\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\ProjectAliceSkillKit\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\ProjectAliceUnittest\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\core\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\repositories\git\ProjectAlice\skill_OvenTemperatureConversion\venv\Scripts\python.exe" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/snipsLedControl_1.8/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.127:22/home/pi/snipsLedControl_v1.8.0/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.138:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python3.5" value="false" />
+        <entry key="sftp://pi@192.168.1.154:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.160:22/home/pi/ProjectAlice/venv/bin/python3.7" value="false" />
+        <entry key="sftp://pi@192.168.1.164:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@192.168.1.168:22/home/pi/ProjectAlice/venv/bin/python" value="false" />
+        <entry key="sftp://pi@aliceoffice:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@aliceparis:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicevelux:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-5:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsflower:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsflower:22/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="project-alice-assistant" />
+      <option name="repoName" value="ProjectAlice" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="https://projectalice.beta.teamcity.com&amp;^%$#@psychokiller1888" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>
