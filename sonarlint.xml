@@ -5,9 +5,10 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df92dfcfdfcbdf9adf9bdf93df93df9adf9adf9edf9edfcbdfccdfccdfccdf99df93df9edf9ddfc8dfc8df92dfcedf93df9edfc9df9ddfccdfc9dfcbdfcfdfcedfccdf9cdfc8dfcbdf93df93df98df9f</token>
+          <token>df9edf9cdf9edf9edfccdf98dfc8df9edf92df9bdf9edfc9df92df98dfcedf9edf93dfccdf98dfcbdfccdfcbdfc9df93dfcedf92df9ddf9ddf99df9cdfc8df9bdfcedf9cdf98df9fdfc8df9edf98df99</token>
           <option name="name" value="Project Alice" />
           <organizationKey>project-alice-assistant</organizationKey>
+          <disableNotifications>true</disableNotifications>
         </SonarQubeServer>
       </list>
     </option>
